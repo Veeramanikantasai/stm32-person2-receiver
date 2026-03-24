@@ -20,5 +20,9 @@ This project implements the receiver side of an embedded communication system us
 Received: Hello  
 Transmitted: how are you?
 
+## 🎥 Project Demo Video
+
+[![Watch the video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/N0c5QkNpm1Q?si=zT4uiqnO_8cB0mlT))
+
 ## Author
 Veera Manikanta Sai Kaja
